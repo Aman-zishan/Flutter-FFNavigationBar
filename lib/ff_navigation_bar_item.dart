@@ -19,6 +19,7 @@ class FFNavigationBarItem extends StatelessWidget {
   Color? selectedBackgroundColor;
   Color? selectedForegroundColor;
   Color? selectedLabelColor;
+  var itemWidth;
 
   int? index;
   int? selectedIndex;
